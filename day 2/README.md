@@ -1,7 +1,7 @@
 # 1. Defining technical requirements
 
 ## Built with Next.js
-Next.js provides fast loading speeds, server-side rendering, and SEO optimization for a seamless user experience.
+Next.js provides fast loading speeds, server-side rendering.
 
 ## Fully Responsive Design
 Ensures the website adapts perfectly to all devices, including desktops, tablets, and smartphones.
